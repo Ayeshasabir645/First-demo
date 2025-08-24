@@ -1,3 +1,3 @@
 # First-demo
 This is my first Git Repository.
-Author-Ayesha sabir
+Author-Ayesha Sabir
